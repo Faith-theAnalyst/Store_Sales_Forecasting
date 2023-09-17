@@ -1,6 +1,6 @@
 # Corporation Favorita Store Sales Analysis
 
-<img src="sales.png" alt="Sales Analysis" width="600"/>
+<img src="img.jpg" alt="Sales Analysis" width="600"/>
 
 Welcome to the **Corporation Favorita Store Sales Analysis** repository. This analysis is aimed at providing insights into the sales patterns of the Corporation Favorita grocery chain and creating effective predictive models for sales forecasting.
 
